@@ -1,0 +1,16 @@
+#h3{
+    text-align: center;
+}
+#boton_dibujo{
+    border-radius: 56px;
+    border-width: 0px;
+    background-color: white;
+}
+canvas{
+    background-color: rgb(165, 241, 120);
+    border-radius: 30px;
+}
+body{
+    text-align: center;
+    background-image: url(gif4k.gif);
+}
